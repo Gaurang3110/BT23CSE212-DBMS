@@ -10,7 +10,7 @@ The goal of this project is to automate farm monitoring and improve decision-mak
 
 ## 🧩 ER Diagram
 
-## ![ER DIAGRAM](<ChatGPT Image Nov 14, 2025, 12_24_51 PM.png>)
+## ![ER DIAGRAM](ER-Diagram.png)
 
 ## 🧱 Database Schema
 
